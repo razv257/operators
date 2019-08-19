@@ -9,7 +9,7 @@ public class Arithmetic {
 		System.out.println(a-b); //Subtraction
 		System.out.println(a*b); //Multiplication
 		System.out.println(a/b); //Division
-		System.out.println(a%b); //Modulus(outputs remainder)
+		System.out.println(a%b); //Modulus(outputs remainder)ikuhdfagdiose
 	}
 
 }
