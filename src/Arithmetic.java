@@ -5,6 +5,7 @@ public class Arithmetic {
 
 		int a=11;
 		int b=5;
+		int c=80;
 		System.out.println(a+b); // Addition
 		System.out.println(a-b); //Subtraction
 		System.out.println(a*b); //Multiplication
